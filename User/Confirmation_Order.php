@@ -94,8 +94,8 @@ if(isset($_POST['User_submit']))
                           <th>No</th>
                           <th>Nama</th>
                           <th>Jenis</th>
-                          <th>Harga Kering </th>
-                          <th>Harga Cucian</th>
+                          <th>Harga Cuci Kering </th>
+                          <th>Harga Setrika</th>
                           <th>Total Item</th>
                           <th>Total Harga</th>
                           <th>Hapus</th>

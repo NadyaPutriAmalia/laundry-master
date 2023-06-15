@@ -46,7 +46,7 @@ $Data=get_detail($Order_Id);
             <?php }?>
             <?php if($Data->Laundry_Price>0){?>
               <div class="form-group col-lg-12">
-                <label for="exampleInputEmail1">Cuci Laundry</label>
+                <label for="exampleInputEmail1">Cuci Setrika</label>
                 <select id="Laundry_Price<?php echo $Order_Id?>" class="form-control" >
                   <option value="<?php echo $Data->Laundry_Price; ?>">Yes</option>
                   <option value="0">No</option>

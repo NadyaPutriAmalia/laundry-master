@@ -114,7 +114,7 @@ $objExecute=$db->query($sel);
             </table>
           </div>
         </div>
-        <div class="card-footer small text-muted">Semua jenis layanan pada laundry barokah</div>
+        <div class="card-footer small text-muted">Semua jenis layanan pada AADC laundry</div>
       </div>
     </div>
     <!-- /.container-fluid-->

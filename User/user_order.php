@@ -63,7 +63,7 @@
               </div>
               <?php if($Data->Dry_Price>0){?>
               <div class="form-group col-lg-12">
-                <label for="exampleInputEmail1">Harga Kering (<?php echo $Data->Dry_Price; ?> )</label>
+                <label for="exampleInputEmail1">Harga Cuci Kering (<?php echo $Data->Dry_Price; ?> )</label>
                 <select name="Dry_Price"class="form-control" >
                   <option value="Yes">Yes</option>
                   <option value="No">No</option>
@@ -72,7 +72,7 @@
             <?php }?>
                <?php if($Data->Laundry_Price>0){?>
               <div class="form-group col-lg-12">
-                <label for="exampleInputEmail1">Harga Laudry</label>
+                <label for="exampleInputEmail1">Harga Setrika</label>
                 <input type="text" name="menu" disabled="" value="<?php echo $Data->Laundry_Price; ?>" class="form-control">
               </div>
             <?php }?>

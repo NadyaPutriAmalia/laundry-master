@@ -68,7 +68,7 @@ include('secure.php');
             </table>
           </div>
         </div>
-        <div class="card-footer small text-muted">Daftar akun pelanggan barokah laundry</div>
+        <div class="card-footer small text-muted">Daftar akun pelanggan AADC Laundry</div>
       </div>
     </div>
     <!-- /.container-fluid-->

@@ -80,12 +80,12 @@ $objExecute=$db->query($sel);
             <input type="text"  class="form-control" name="Ser_Name" required=""  placeholder="Masukan nama layanan">
           </div>
           <div class="form-group col-lg-3">
-            <label for="exampleInputEmail1">Harga Kering </label>
+            <label for="exampleInputEmail1">Harga Cuci Kering </label>
             <input type="number"  class="form-control" name="Dry_Price" maxlength="12" minlength="12" placeholder="Harga kering" required="">
           </div>
 
           <div class="form-group col-lg-3">
-            <label for="exampleInputEmail1">Harga Cucian </label>
+            <label for="exampleInputEmail1">Harga Setrika </label>
             <input type="number"  class="form-control" name="Laundry_Price" maxlength="12" minlength="12" placeholder="Harga cucian" required="">
           </div>
            <div class="form-group col-lg-12">
@@ -109,8 +109,8 @@ $objExecute=$db->query($sel);
                   <th>No</th>
                   <th>Nama</th>
                   <th>Jenis</th>
-                  <th>Harga Kering</th>
-                  <th>Harga Cucian</th>
+                  <th>Harga Cuci Kering</th>
+                  <th>Harga Setrika</th>
                   <th>Aksi</th>
                 </tr>
               </thead>

@@ -47,7 +47,7 @@
         </div>
        </form> 
         </div>
-        <div class="card-footer small text-muted">Kelompok 1</div>
+        <div class="card-footer small text-muted">Kelompok 3 PT.KEJAR DEADLINE</div>
       </div>
     </div>
     <!-- /.container-fluid-->
